@@ -1,0 +1,1 @@
+Entry.options.useWebGL = true;
